@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'whdemo'
+project = 'write-docs'
 copyright = '2019, RYefccd'
 author = 'RYefccd'
 
@@ -33,6 +33,7 @@ release = 'v1.0'
 extensions = [
 ]
 
+master_doc = 'index'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
